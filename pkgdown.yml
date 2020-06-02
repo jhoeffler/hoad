@@ -1,0 +1,11 @@
+pandoc: 2.7.3
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  about: about.html
+  interactive: interactive.html
+last_built: 2020-06-02T19:22Z
+urls:
+  reference: http://subugoe.github.io/hoad/reference
+  article: http://subugoe.github.io/hoad/articles
+
